@@ -52,10 +52,10 @@
                 box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
                 width: 95%;
                 max-width: 800px;         
-                color: black;
+                color: rgb(255, 255, 255);
                 text-align: center;                
                 font-weight: 800;
-                background: #00d0fe;
+                background: #085060;
                 margin-top: 5px;
             }
 
