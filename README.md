@@ -13,7 +13,7 @@
                 font-family: 'Poppins', sans-serif;
                 background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkqfqHp71ODZcTxHm2FTtdXeu2Q3C6vgQ90Q&s'); /* Reemplaza con la URL o ruta de tu imagen */
                 background-repeat: repeat; 
-                background-size: auto; 
+                background-size: 100px; 
                 display: flex;
                 font-family: 'Poppins', sans-serif;
                 background-color: #1471ce;
