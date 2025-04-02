@@ -51,13 +51,12 @@
                 border-radius: 5px;
                 box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
                 width: 85%;
-                max-width: 800px;            
-                margin-top: 70px;
+                max-width: 800px;         
                 color: black;
                 text-align: center;                
                 font-weight: 800;
                 background:  #FFC107;
-                margin-top: 10px;
+                margin-top: 5px;
             }
 
             h2 {
