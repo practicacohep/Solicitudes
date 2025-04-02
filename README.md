@@ -50,7 +50,7 @@
                 padding: 15px;
                 border-radius: 5px;
                 box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
-                width: 85%;
+                width: 95%;
                 max-width: 800px;         
                 color: black;
                 text-align: center;                
