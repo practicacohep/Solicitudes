@@ -57,7 +57,7 @@
                 text-align: center;                
                 font-weight: 800;
                 background:  #FFC107;
-                margin-top: 50px;
+                margin-top: 30px;
             }
 
             h2 {
