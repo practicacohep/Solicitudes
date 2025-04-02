@@ -131,7 +131,7 @@
            
             <div style="background-color: rgba(231, 226, 226, 0.7); padding: 15px; border-radius: 5px; margin-bottom: 20px; text-align: center;">
                 <h3><strong>¡Aviso Importante!</strong></h3>
-                <p>Esta es una <strong>solicitud de reserva</strong> de salón. Tu solicitud será revisada y confirmada por el equipo de COHEP. Recibirás una notificación en cuanto se apruebe o se rechace.</p>
+                </strong>Esta es una <p>solicitud de reserva</p> de salón. Tu solicitud será revisada y confirmada por el equipo de COHEP. Recibirás una notificación en cuanto se apruebe o se rechace.</strong>
                   
             </div>                      
 
