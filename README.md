@@ -55,7 +55,7 @@
                 color: black;
                 text-align: center;                
                 font-weight: 800;
-                background:  #FFC107;
+                background: #00d0fe;
                 margin-top: 5px;
             }
 
